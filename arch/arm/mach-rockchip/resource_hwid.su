@@ -1,0 +1,1 @@
+arch/arm/mach-rockchip/resource_hwid.c:263:23:resource_read_hwid_dtb	224	static

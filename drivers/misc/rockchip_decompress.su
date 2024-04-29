@@ -1,0 +1,3 @@
+drivers/misc/rockchip_decompress.c:191:12:rockchip_decom_ioctl	48	static
+drivers/misc/rockchip_decompress.c:224:12:rockchip_decom_ofdata_to_platdata	32	static
+drivers/misc/rockchip_decompress.c:237:12:rockchip_decom_probe	32	static

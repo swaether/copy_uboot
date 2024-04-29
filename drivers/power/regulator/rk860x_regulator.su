@@ -1,0 +1,12 @@
+drivers/power/regulator/rk860x_regulator.c:339:12:rk860x_regulator_ofdata_to_platdata	48	static
+drivers/power/regulator/rk860x_regulator.c:108:12:rk860x_reg_read	32	static
+drivers/power/regulator/rk860x_regulator.c:206:12:rk860x_regulator_get_suspend_enable	48	static
+drivers/power/regulator/rk860x_regulator.c:249:12:rk860x_regulator_get_suspend_voltage	48	static
+drivers/power/regulator/rk860x_regulator.c:222:12:rk860x_regulator_get_voltage	48	static
+drivers/power/regulator/rk860x_regulator.c:167:12:rk860x_regulator_get_enable	48	static
+drivers/power/regulator/rk860x_regulator.c:367:12:rk860x_regulator_probe	64	static
+drivers/power/regulator/rk860x_regulator.c:131:13:rk860x_clrsetbits.isra	64	static
+drivers/power/regulator/rk860x_regulator.c:145:12:rk860x_regulator_set_enable	32	static
+drivers/power/regulator/rk860x_regulator.c:238:12:rk860x_regulator_set_voltage	32	static
+drivers/power/regulator/rk860x_regulator.c:265:12:rk860x_regulator_set_suspend_voltage	32	static
+drivers/power/regulator/rk860x_regulator.c:190:12:rk860x_regulator_set_suspend_enable	32	static

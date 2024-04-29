@@ -1,0 +1,2 @@
+cmd/charge.c:74:12:do_charge	32	static
+cmd/charge.c:13:12:do_charge_display	96	static

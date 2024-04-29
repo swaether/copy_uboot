@@ -1,0 +1,5 @@
+drivers/adc/rockchip-saradc-v2.c:153:12:rockchip_saradc_stop	16	static
+drivers/adc/rockchip-saradc-v2.c:104:12:rockchip_saradc_channel_data	48	static
+drivers/adc/rockchip-saradc-v2.c:124:12:rockchip_saradc_start_channel	48	static
+drivers/adc/rockchip-saradc-v2.c:189:12:rockchip_saradc_ofdata_to_platdata	48	static
+drivers/adc/rockchip-saradc-v2.c:162:12:rockchip_saradc_probe	64	static

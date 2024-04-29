@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/crypto/built-in.o drivers/crypto/crypto-uclass.o drivers/crypto/rsa_mod_exp/built-in.o drivers/crypto/fsl/built-in.o drivers/crypto/rockchip/built-in.o 

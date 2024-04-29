@@ -1,0 +1,1 @@
+cmd_drivers/phy/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/phy/built-in.o drivers/phy/phy-uclass.o drivers/phy/phy-rockchip-inno-usb2.o drivers/phy/phy-rockchip-samsung-hdptx.o drivers/phy/phy-rockchip-snps-pcie3.o drivers/phy/phy-rockchip-usbdp.o drivers/phy/phy-rockchip-naneng-combphy.o 

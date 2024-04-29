@@ -1,0 +1,9 @@
+drivers/power/pmic/rk8xx_spi.c:164:12:rk8xx_spi_reg_count	0	static
+drivers/power/pmic/rk8xx_spi.c:150:12:rk806_spi_write	64	static
+drivers/power/pmic/rk8xx_spi.c:194:12:rk8xx_spi_ofdata_to_platdata	64	static
+drivers/power/pmic/rk8xx_spi.c:170:12:rk8xx_spi_bind	32	static
+drivers/power/pmic/rk8xx_spi.c:136:12:rk806_spi_read	64	static
+drivers/power/pmic/rk8xx_spi.c:348:12:rk8xx_spi_shutdown	48	static
+drivers/power/pmic/rk8xx_spi.c:424:12:rk806_resume	64	static
+drivers/power/pmic/rk8xx_spi.c:370:12:rk806_suspend	64	static
+drivers/power/pmic/rk8xx_spi.c:262:12:rk8xx_spi_probe	64	static

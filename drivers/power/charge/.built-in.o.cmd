@@ -1,0 +1,1 @@
+cmd_drivers/power/charge/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/power/charge/built-in.o drivers/power/charge/bq25700_charger.o drivers/power/charge/bq25890_charger.o drivers/power/charge/sc8551_charger.o drivers/power/charge/sgm41542_charger.o 

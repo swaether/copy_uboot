@@ -1,0 +1,3 @@
+drivers/firmware/scmi/scmi_agent-uclass.c:58:12:scmi_bind_protocols	64	static
+drivers/firmware/scmi/scmi_agent-uclass.c:39:5:scmi_to_linux_errno	0	static
+drivers/firmware/scmi/scmi_agent-uclass.c:107:5:devm_scmi_process_msg	0	static

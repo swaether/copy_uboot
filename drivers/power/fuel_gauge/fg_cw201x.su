@@ -1,0 +1,9 @@
+drivers/power/fuel_gauge/fg_cw201x.c:344:12:cw201x_update_get_current	0	static
+drivers/power/fuel_gauge/fg_cw201x.c:356:12:cw201x_capability	0	static
+drivers/power/fuel_gauge/fg_cw201x.c:155:12:cw201x_ofdata_to_platdata	64	static
+drivers/power/fuel_gauge/fg_cw201x.c:349:13:cw201x_update_get_chrg_online	32	static
+drivers/power/fuel_gauge/fg_cw201x.c:64:11:cw201x_read.isra	32	static
+drivers/power/fuel_gauge/fg_cw201x.c:93:12:cw201x_read_half_word.constprop	32	static
+drivers/power/fuel_gauge/fg_cw201x.c:337:12:cw201x_update_get_voltage	64	static
+drivers/power/fuel_gauge/fg_cw201x.c:330:12:cw201x_update_get_soc	32	static
+drivers/power/fuel_gauge/fg_cw201x.c:387:12:cw201x_fg_probe	48	static

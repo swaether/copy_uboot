@@ -1,0 +1,7 @@
+drivers/spi/rk_spi.c:487:12:rockchip_spi_set_mode	32	static
+drivers/spi/rk_spi.c:474:12:rockchip_spi_set_speed	32	static
+drivers/spi/rk_spi.c:400:12:rockchip_spi_release_bus	16	static
+drivers/spi/rk_spi.c:311:12:rockchip_spi_claim_bus	64	static
+drivers/spi/rk_spi.c:195:12:rockchip_spi_ofdata_to_platdata	48	static
+drivers/spi/rk_spi.c:272:12:rockchip_spi_probe	48	static
+drivers/spi/rk_spi.c:410:12:rockchip_spi_xfer	96	static

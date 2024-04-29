@@ -1,0 +1,3 @@
+arch/arm/mach-rockchip/fit_misc.c:29:12:fit_image_get_uncomp_digest	48	static
+arch/arm/mach-rockchip/fit_misc.c:154:6:board_fit_image_post_process	112	static
+arch/arm/mach-rockchip/fit_misc.c:210:5:fit_board_verify_required_sigs	32	static

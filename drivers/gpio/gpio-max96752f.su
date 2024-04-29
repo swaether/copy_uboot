@@ -1,0 +1,5 @@
+drivers/gpio/gpio-max96752f.c:51:12:max96752f_gpio_get_function	16	static
+drivers/gpio/gpio-max96752f.c:27:12:max96752f_gpio_get_value	16	static
+drivers/gpio/gpio-max96752f.c:38:12:max96752f_gpio_set_value	16	static
+drivers/gpio/gpio-max96752f.c:12:12:max96752f_gpio_direction_output	16	static
+drivers/gpio/gpio-max96752f.c:69:12:max96752f_gpio_probe	32	static

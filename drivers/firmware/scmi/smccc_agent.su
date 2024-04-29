@@ -1,0 +1,2 @@
+drivers/firmware/scmi/smccc_agent.c:31:12:scmi_smccc_process_msg	112	static
+drivers/firmware/scmi/smccc_agent.c:52:12:scmi_smccc_probe	32	static

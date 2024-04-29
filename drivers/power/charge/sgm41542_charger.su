@@ -1,0 +1,14 @@
+drivers/power/charge/sgm41542_charger.c:259:12:sgm41542_charger_capability	0	static
+drivers/power/charge/sgm41542_charger.c:480:12:sgm41542_ofdata_to_platdata	64	static
+drivers/power/charge/sgm41542_charger.c:188:12:sgm41542_read.isra	48	static
+drivers/power/charge/sgm41542_charger.c:214:12:sgm41542_update_bits	64	static
+drivers/power/charge/sgm41542_charger.c:264:12:sgm4154x_set_ichrg_curr	32	static
+drivers/power/charge/sgm41542_charger.c:370:12:sgm41542_charger_current	32	static
+drivers/power/charge/sgm41542_charger.c:360:12:sgm41542_iprechg_current	32	static
+drivers/power/charge/sgm41542_charger.c:349:12:sgm41542_charger_disable	16	static
+drivers/power/charge/sgm41542_charger.c:338:12:sgm41542_charger_enable	16	static
+drivers/power/charge/sgm41542_charger.c:309:12:sgm4154x_set_chrg_volt	0	static
+drivers/power/charge/sgm41542_charger.c:330:12:sgm41542_set_charger_voltage	32	static
+drivers/power/charge/sgm41542_charger.c:520:12:sgm41542_probe	64	static
+drivers/power/charge/sgm41542_charger.c:228:12:sgm4154x_set_input_curr_lim.isra	0	static
+drivers/power/charge/sgm41542_charger.c:438:13:sgm41542_charger_status	80	static

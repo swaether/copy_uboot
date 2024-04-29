@@ -1,0 +1,1 @@
+cmd_drivers/firmware/scmi/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/firmware/scmi/built-in.o drivers/firmware/scmi/scmi_agent-uclass.o drivers/firmware/scmi/smt.o drivers/firmware/scmi/smccc_agent.o 

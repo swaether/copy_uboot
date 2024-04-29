@@ -1,0 +1,4 @@
+drivers/i2c/muxes/max96752f.c:14:12:max96752f_select	0	static
+drivers/i2c/muxes/max96752f.c:63:12:max96752f_probe	64	static
+drivers/i2c/muxes/max96752f.c:20:12:max96752f_deselect	0	static
+drivers/i2c/muxes/max96752f.c:35:6:max96752f_init	64	static

@@ -1,0 +1,7 @@
+cmd/pci.c:45:12:pci_field_width	0	static
+cmd/pci.c:51:13:pci_show_regs	80	static
+cmd/pci.c:549:12:pci_cfg_modify.constprop	112	static
+cmd/pci.c:96:5:pci_bar_show	128	static
+cmd/pci.c:262:6:pci_header_show	48	static
+cmd/pci.c:300:6:pciinfo_header	32	static
+cmd/pci.c:659:12:do_pci	176	static

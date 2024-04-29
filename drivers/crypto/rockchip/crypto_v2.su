@@ -1,0 +1,12 @@
+drivers/crypto/rockchip/crypto_v2.c:222:12:crypto_v3_dynamic_cap	176	static
+drivers/crypto/rockchip/crypto_v2.c:283:13:hw_hash_clean_ctx	32	static
+drivers/crypto/rockchip/crypto_v2.c:1272:12:rockchip_crypto_rsa_verify	112	static
+drivers/crypto/rockchip/crypto_v2.c:495:12:rockchip_crypto_capability	16	static
+drivers/crypto/rockchip/crypto_v2.c:519:12:rockchip_crypto_sha_init	64	static
+drivers/crypto/rockchip/crypto_v2.c:370:12:rk_hash_direct_calc	64	static
+drivers/crypto/rockchip/crypto_v2.c:1357:12:rockchip_crypto_ofdata_to_platdata	64	static
+drivers/crypto/rockchip/crypto_v2.c:1446:12:rockchip_crypto_probe	64	static
+drivers/crypto/rockchip/crypto_v2.c:442:5:rk_hash_update	32	static
+drivers/crypto/rockchip/crypto_v2.c:541:12:rockchip_crypto_sha_update	64	static
+drivers/crypto/rockchip/crypto_v2.c:465:5:rk_hash_final	80	static
+drivers/crypto/rockchip/crypto_v2.c:566:12:rockchip_crypto_sha_final	48	static

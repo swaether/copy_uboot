@@ -1,0 +1,1 @@
+cmd_drivers/i2c/muxes/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/i2c/muxes/built-in.o drivers/i2c/muxes/i2c-mux-uclass.o drivers/i2c/muxes/max96745.o drivers/i2c/muxes/max96752f.o drivers/i2c/muxes/max96755f.o 

@@ -1,0 +1,7 @@
+drivers/phy/phy-rockchip-naneng-combphy.c:202:12:rockchip_combphy_exit	32	static
+drivers/phy/phy-rockchip-naneng-combphy.c:212:12:rockchip_combphy_xlate	32	static
+drivers/phy/phy-rockchip-naneng-combphy.c:273:12:rockchip_combphy_probe	80	static
+drivers/phy/phy-rockchip-naneng-combphy.c:179:12:rockchip_combphy_init	48	static
+drivers/phy/phy-rockchip-naneng-combphy.c:84:12:param_write.isra	0	static
+drivers/phy/phy-rockchip-naneng-combphy.c:295:12:rk3568_combphy_cfg	48	static
+drivers/phy/phy-rockchip-naneng-combphy.c:432:12:rk3588_combphy_cfg	48	static

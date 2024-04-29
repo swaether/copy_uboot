@@ -1,0 +1,16 @@
+drivers/spi/rockchip_sfc.c:787:12:rockchip_sfc_set_mode	0	static
+drivers/spi/rockchip_sfc.c:647:12:rockchip_sfc_adjust_op_size	32	static
+drivers/spi/rockchip_sfc.c:261:12:rockchip_sfc_ofdata_to_platdata	48	static
+drivers/spi/rockchip_sfc.c:341:12:rockchip_sfc_wait_rxfifo_ready.constprop	32	static
+drivers/spi/rockchip_sfc.c:324:12:rockchip_sfc_wait_txfifo_ready.constprop	32	static
+drivers/spi/rockchip_sfc.c:395:12:rockchip_sfc_xfer_setup.constprop.isra	48	static
+drivers/spi/rockchip_sfc.c:535:12:rockchip_sfc_xfer_data_poll	80	static
+drivers/spi/rockchip_sfc.c:225:12:rockchip_sfc_get_max_dll_cells.isra	0	static
+drivers/spi/rockchip_sfc.c:238:28:rockchip_sfc_set_delay_lines	16	static
+drivers/spi/rockchip_sfc.c:289:12:rockchip_sfc_probe	32	static
+drivers/spi/rockchip_sfc.c:193:12:rockchip_sfc_reset.isra	32	static
+drivers/spi/rockchip_sfc.c:373:12:rockchip_sfc_wait_for_dma_finished.isra	48	static
+drivers/spi/rockchip_sfc.c:596:12:rockchip_sfc_xfer_done.constprop	32	static
+drivers/spi/rockchip_sfc.c:614:12:rockchip_sfc_exec_op	112	static
+drivers/spi/rockchip_sfc.c:657:12:rockchip_sfc_exec_op_bypass.constprop.isra	48	static
+drivers/spi/rockchip_sfc.c:753:12:rockchip_sfc_set_speed	176	static

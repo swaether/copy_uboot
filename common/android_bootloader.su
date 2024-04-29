@@ -1,0 +1,12 @@
+common/android_bootloader.c:56:12:android_bootloader_message_write	48	static
+common/android_bootloader.c:465:28:android_slot_verify	368	static
+common/android_bootloader.c:34:5:android_bootloader_message_load	48	static
+common/android_bootloader.c:122:5:android_bcb_write	2224	static
+common/android_bootloader.c:294:5:android_bootloader_boot_kernel	240	static
+common/android_bootloader.c:391:7:android_assemble_cmdline	208	static
+common/android_bootloader.c:667:12:board_select_fdt_index	0	static
+common/android_bootloader.c:783:5:android_fdt_overlay_apply	400	static
+common/android_bootloader.c:886:5:android_image_load_by_partname	192	static
+common/android_bootloader.c:912:5:android_bootloader_boot_flow	2272	static
+common/android_bootloader.c:1101:5:android_avb_boot_flow	192	static
+common/android_bootloader.c:1134:5:android_boot_flow	192	static

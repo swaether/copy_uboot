@@ -1,0 +1,10 @@
+drivers/pci/pcie_dw_rockchip.c:337:12:rk_pcie_addr_valid	0	static
+drivers/pci/pcie_dw_rockchip.c:173:13:__rk_pcie_write_apb.constprop	0	static
+drivers/pci/pcie_dw_rockchip.c:160:12:__rk_pcie_read_apb.constprop	16	static
+drivers/pci/pcie_dw_rockchip.c:495:12:is_link_up.isra	16	static
+drivers/pci/pcie_dw_rockchip.c:206:13:rk_pcie_writel_ob_unroll.isra	0	static
+drivers/pci/pcie_dw_rockchip.c:298:13:rk_pcie_prog_outbound_atu_unroll	48	static
+drivers/pci/pcie_dw_rockchip.c:347:18:set_cfg_address	32	static
+drivers/pci/pcie_dw_rockchip.c:421:12:rockchip_pcie_wr_conf	64	static
+drivers/pci/pcie_dw_rockchip.c:390:12:rockchip_pcie_rd_conf	64	static
+drivers/pci/pcie_dw_rockchip.c:701:12:rockchip_pcie_probe	208	static

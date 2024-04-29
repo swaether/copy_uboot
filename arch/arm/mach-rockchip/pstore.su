@@ -1,0 +1,3 @@
+arch/arm/mach-rockchip/pstore.c:91:5:param_parse_pstore	16	static
+arch/arm/mach-rockchip/pstore.c:130:6:putc_to_ram	0	static
+arch/arm/mach-rockchip/pstore.c:150:6:puts_to_ram	16	static

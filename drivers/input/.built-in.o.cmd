@@ -1,0 +1,1 @@
+cmd_drivers/input/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/input/built-in.o drivers/input/key-uclass.o drivers/input/input.o drivers/input/key_matrix.o drivers/input/rk8xx_pwrkey.o drivers/input/adc_key.o 

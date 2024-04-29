@@ -1,0 +1,1 @@
+cmd_drivers/crypto/rsa_mod_exp/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/crypto/rsa_mod_exp/built-in.o drivers/crypto/rsa_mod_exp/mod_exp_uclass.o drivers/crypto/rsa_mod_exp/mod_exp_sw.o 

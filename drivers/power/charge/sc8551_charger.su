@@ -1,0 +1,4 @@
+drivers/power/charge/sc8551_charger.c:106:12:sc8551_charger_capability	0	static
+drivers/power/charge/sc8551_charger.c:185:12:sc8551_probe	48	static
+drivers/power/charge/sc8551_charger.c:152:13:sc8551_update_get_chrg_online	16	static
+drivers/power/charge/sc8551_charger.c:159:12:sc8551_ofdata_to_platdata	0	static

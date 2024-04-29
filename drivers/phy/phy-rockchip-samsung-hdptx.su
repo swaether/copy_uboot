@@ -1,0 +1,6 @@
+drivers/phy/phy-rockchip-samsung-hdptx.c:481:12:rockchip_hdptx_phy_set_mode	0	static
+drivers/phy/phy-rockchip-samsung-hdptx.c:963:13:rockchip_hdptx_phy_reset	48	static
+drivers/phy/phy-rockchip-samsung-hdptx.c:1031:12:rockchip_hdptx_phy_power_off	16	static
+drivers/phy/phy-rockchip-samsung-hdptx.c:1047:12:rockchip_hdptx_phy_probe	144	static
+drivers/phy/phy-rockchip-samsung-hdptx.c:694:12:rockchip_hdptx_phy_configure	96	static
+drivers/phy/phy-rockchip-samsung-hdptx.c:989:12:rockchip_hdptx_phy_power_on	80	static

@@ -1,0 +1,3 @@
+drivers/ata/dwc_ahci.c:33:12:dwc_ahci_ofdata_to_platdata	32	static
+drivers/ata/dwc_ahci.c:52:12:dwc_ahci_probe	80	static
+drivers/ata/dwc_ahci.c:26:12:dwc_ahci_bind	32	static

@@ -1,0 +1,3 @@
+disk/part_rkram.c:97:12:part_get_info_rkram_part	32	static
+disk/part_rkram.c:78:13:part_print_rkram_part	48	static
+disk/part_rkram.c:135:12:part_test_rkram_part	64	static

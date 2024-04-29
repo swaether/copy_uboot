@@ -1,0 +1,1 @@
+cmd_drivers/power/regulator/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/power/regulator/built-in.o drivers/power/regulator/regulator-uclass.o drivers/power/regulator/pwm_regulator.o drivers/power/regulator/fixed.o drivers/power/regulator/gpio-regulator.o drivers/power/regulator/rk860x_regulator.o drivers/power/regulator/rk806.o 

@@ -1,0 +1,12 @@
+arch/arm/mach-rockchip/resource_img.c:598:12:do_dump_resource	48	static
+arch/arm/mach-rockchip/resource_img.c:106:12:board_resource_dtb_accepted	0	static
+arch/arm/mach-rockchip/resource_img.c:135:12:add_file_to_list.isra	48	static
+arch/arm/mach-rockchip/resource_img.c:111:5:resource_image_check_header	16	static
+arch/arm/mach-rockchip/resource_img.c:167:5:resource_replace_entry	64	static
+arch/arm/mach-rockchip/resource_img.c:204:5:resource_create_ram_list	64	static
+arch/arm/mach-rockchip/resource_img.c:428:5:resource_init_list	176	static
+arch/arm/mach-rockchip/resource_img.c:455:30:get_file_info	48	static
+arch/arm/mach-rockchip/resource_img.c:450:5:resource_is_empty	0	static
+arch/arm/mach-rockchip/resource_img.c:481:5:rockchip_read_resource_file	64	static
+arch/arm/mach-rockchip/resource_img.c:551:5:rockchip_read_resource_dtb	96	static
+arch/arm/mach-rockchip/resource_img.c:580:5:resource_traverse_init_list	16	static

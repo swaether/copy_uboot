@@ -1,0 +1,5 @@
+drivers/clk/clk_scmi.c:12:12:scmi_clk_gate	80	static
+drivers/clk/clk_scmi.c:36:12:scmi_clk_disable	0	static
+drivers/clk/clk_scmi.c:31:12:scmi_clk_enable	0	static
+drivers/clk/clk_scmi.c:41:14:scmi_clk_get_rate	80	static
+drivers/clk/clk_scmi.c:63:14:scmi_clk_set_rate	96	static

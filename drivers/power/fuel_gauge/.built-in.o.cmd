@@ -1,0 +1,1 @@
+cmd_drivers/power/fuel_gauge/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/power/fuel_gauge/built-in.o drivers/power/fuel_gauge/fuel_gauge_uclass.o drivers/power/fuel_gauge/fg_cw201x.o drivers/power/fuel_gauge/fg_cw221x.o 

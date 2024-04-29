@@ -1,0 +1,2 @@
+arch/arm/mach-rockchip/resource_logo.c:16:12:read_bmp	64	static
+arch/arm/mach-rockchip/resource_logo.c:75:5:resource_read_logo_bmps	176	static

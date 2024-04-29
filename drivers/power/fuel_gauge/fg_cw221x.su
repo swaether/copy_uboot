@@ -1,0 +1,15 @@
+drivers/power/fuel_gauge/fg_cw221x.c:576:12:cw221x_capability	0	static
+drivers/power/fuel_gauge/fg_cw221x.c:170:12:cw221x_ofdata_to_platdata	64	static
+drivers/power/fuel_gauge/fg_cw221x.c:558:13:cw221x_update_get_chrg_online	16	static
+drivers/power/fuel_gauge/fg_cw221x.c:139:12:cw221x_write.isra	48	static
+drivers/power/fuel_gauge/fg_cw221x.c:353:12:cw221X_sleep.isra	32	static
+drivers/power/fuel_gauge/fg_cw221x.c:124:11:cw221x_read.isra	64	static
+drivers/power/fuel_gauge/fg_cw221x.c:150:12:cw221x_read_half_word	64	static
+drivers/power/fuel_gauge/fg_cw221x.c:513:12:cw221x_get_current	48	static
+drivers/power/fuel_gauge/fg_cw221x.c:533:12:cw221x_update_get_current	16	static
+drivers/power/fuel_gauge/fg_cw221x.c:205:12:cw221x_get_vol	48	static
+drivers/power/fuel_gauge/fg_cw221x.c:272:12:cw221x_get_soc	48	static
+drivers/power/fuel_gauge/fg_cw221x.c:315:12:cw221x_update_get_soc	16	static
+drivers/power/fuel_gauge/fg_cw221x.c:590:12:cw221x_fg_probe	64	static
+drivers/power/fuel_gauge/fg_cw221x.c:540:12:cw221x_get_temperature	48	static
+drivers/power/fuel_gauge/fg_cw221x.c:565:12:cw221x_update_get_voltage	48	static

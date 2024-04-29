@@ -1,0 +1,4 @@
+arch/arm/mach-rockchip/rk3588/rk3588.c:938:13:fdt_rm_path	32	static
+arch/arm/mach-rockchip/rk3588/rk3588.c:440:6:board_debug_uart_init	0	static
+arch/arm/mach-rockchip/rk3588/rk3588.c:830:5:arch_cpu_init	0	static
+arch/arm/mach-rockchip/rk3588/rk3588.c:1224:5:rk_board_fdt_fixup	256	static

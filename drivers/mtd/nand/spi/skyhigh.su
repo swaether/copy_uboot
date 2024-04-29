@@ -1,0 +1,2 @@
+drivers/mtd/nand/spi/skyhigh.c:33:12:s35ml04g3_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/skyhigh.c:39:12:s35ml04g3_ooblayout_free	0	static

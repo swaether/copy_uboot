@@ -1,0 +1,1 @@
+cmd_drivers/misc/built-in.o :=  ccache aarch64-linux-gnu-ld.bfd   -r -o drivers/misc/built-in.o drivers/misc/misc-uclass.o drivers/misc/misc_otp.o drivers/misc/misc_decompress.o drivers/misc/rockchip-otp.o drivers/misc/rockchip_decompress.o 

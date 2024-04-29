@@ -1,0 +1,8 @@
+drivers/power/charge/bq25700_charger.c:118:12:bq25700_find_idx	0	static
+drivers/power/charge/bq25700_charger.c:166:12:bq25700_charger_capability	0	static
+drivers/power/charge/bq25700_charger.c:300:12:bq25700_ofdata_to_platdata	48	static
+drivers/power/charge/bq25700_charger.c:180:12:bq25700_get_pd_output_val	64	static
+drivers/power/charge/bq25700_charger.c:85:12:bq25700_write.isra	32	static
+drivers/power/charge/bq25700_charger.c:70:12:bq25700_read.isra	32	static
+drivers/power/charge/bq25700_charger.c:327:12:bq25700_probe	64	static
+drivers/power/charge/bq25700_charger.c:156:13:bq257xx_charger_status	16	static

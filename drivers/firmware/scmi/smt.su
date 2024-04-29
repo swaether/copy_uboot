@@ -1,0 +1,4 @@
+drivers/firmware/scmi/smt.c:24:5:scmi_dt_get_smt_buffer	176	static
+drivers/firmware/scmi/smt.c:64:5:scmi_write_msg_to_smt	16	static
+drivers/firmware/scmi/smt.c:101:5:scmi_read_resp_from_smt	16	static
+drivers/firmware/scmi/smt.c:131:6:scmi_clear_smt_channel	0	static
